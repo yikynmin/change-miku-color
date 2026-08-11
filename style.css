@@ -45,3 +45,15 @@ canvas{
   background:#000;
   color:#fff;
 }
+
+.copyright {
+  position: fixed;
+  left: 18px;
+  bottom: 17px;
+
+  font-family: "Courier New", Courier, monospace;
+  font-size: 9px;
+  line-height: 1;
+
+  color: #777;
+}
