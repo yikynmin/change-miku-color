@@ -48,11 +48,11 @@ canvas{
 
 .copyright {
   position: fixed;
-  left: 18px;
-  bottom: 17px;
+  left: 24px;
+  bottom: 22px;
 
   font-family: "Courier New", Courier, monospace;
-  font-size: 9px;
+  font-size: 8px;
   line-height: 1;
 
   color: #777;
